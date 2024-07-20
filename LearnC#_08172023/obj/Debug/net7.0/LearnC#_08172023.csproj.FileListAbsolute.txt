@@ -1,0 +1,14 @@
+D:\LearnC#_08172023\bin\Debug\net7.0\LearnC#_08172023.exe
+D:\LearnC#_08172023\bin\Debug\net7.0\LearnC#_08172023.deps.json
+D:\LearnC#_08172023\bin\Debug\net7.0\LearnC#_08172023.runtimeconfig.json
+D:\LearnC#_08172023\bin\Debug\net7.0\LearnC#_08172023.dll
+D:\LearnC#_08172023\bin\Debug\net7.0\LearnC#_08172023.pdb
+D:\LearnC#_08172023\obj\Debug\net7.0\LearnC#_08172023.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearnC#_08172023\obj\Debug\net7.0\LearnC#_08172023.AssemblyInfoInputs.cache
+D:\LearnC#_08172023\obj\Debug\net7.0\LearnC#_08172023.AssemblyInfo.cs
+D:\LearnC#_08172023\obj\Debug\net7.0\LearnC#_08172023.csproj.CoreCompileInputs.cache
+D:\LearnC#_08172023\obj\Debug\net7.0\LearnC#_08172023.dll
+D:\LearnC#_08172023\obj\Debug\net7.0\refint\LearnC#_08172023.dll
+D:\LearnC#_08172023\obj\Debug\net7.0\LearnC#_08172023.pdb
+D:\LearnC#_08172023\obj\Debug\net7.0\LearnC#_08172023.genruntimeconfig.cache
+D:\LearnC#_08172023\obj\Debug\net7.0\ref\LearnC#_08172023.dll

@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn_CSharp\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA852540-E92A-4000-AE85-49AF865BB8BA}|Library.UI\\Library.UI.csproj|d:\\learn_csharp\\library\\library.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EA852540-E92A-4000-AE85-49AF865BB8BA}|Library.UI\\Library.UI.csproj|solutionrelative:library.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA852540-E92A-4000-AE85-49AF865BB8BA}|Library.UI\\Library.UI.csproj|d:\\learn_csharp\\library\\library.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA852540-E92A-4000-AE85-49AF865BB8BA}|Library.UI\\Library.UI.csproj|solutionrelative:library.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Learn_CSharp\\Library\\Library.UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Library.UI\\MainWindow.xaml",
+              "ToolTip": "D:\\Learn_CSharp\\Library\\Library.UI\\MainWindow.xaml",
+              "RelativeToolTip": "Library.UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T16:51:01.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Learn_CSharp\\Library\\Library.UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Library.UI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Learn_CSharp\\Library\\Library.UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Library.UI\\MainWindow.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:51:01.08Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

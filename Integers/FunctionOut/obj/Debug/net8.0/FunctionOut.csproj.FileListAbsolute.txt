@@ -1,0 +1,14 @@
+D:\Learn_CSharp\Integers\FunctionOut\bin\Debug\net8.0\FunctionOut.exe
+D:\Learn_CSharp\Integers\FunctionOut\bin\Debug\net8.0\FunctionOut.deps.json
+D:\Learn_CSharp\Integers\FunctionOut\bin\Debug\net8.0\FunctionOut.runtimeconfig.json
+D:\Learn_CSharp\Integers\FunctionOut\bin\Debug\net8.0\FunctionOut.dll
+D:\Learn_CSharp\Integers\FunctionOut\bin\Debug\net8.0\FunctionOut.pdb
+D:\Learn_CSharp\Integers\FunctionOut\obj\Debug\net8.0\FunctionOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_CSharp\Integers\FunctionOut\obj\Debug\net8.0\FunctionOut.AssemblyInfoInputs.cache
+D:\Learn_CSharp\Integers\FunctionOut\obj\Debug\net8.0\FunctionOut.AssemblyInfo.cs
+D:\Learn_CSharp\Integers\FunctionOut\obj\Debug\net8.0\FunctionOut.csproj.CoreCompileInputs.cache
+D:\Learn_CSharp\Integers\FunctionOut\obj\Debug\net8.0\FunctionOut.dll
+D:\Learn_CSharp\Integers\FunctionOut\obj\Debug\net8.0\refint\FunctionOut.dll
+D:\Learn_CSharp\Integers\FunctionOut\obj\Debug\net8.0\FunctionOut.pdb
+D:\Learn_CSharp\Integers\FunctionOut\obj\Debug\net8.0\FunctionOut.genruntimeconfig.cache
+D:\Learn_CSharp\Integers\FunctionOut\obj\Debug\net8.0\ref\FunctionOut.dll

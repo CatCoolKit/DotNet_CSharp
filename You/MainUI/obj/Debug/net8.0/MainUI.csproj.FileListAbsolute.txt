@@ -1,0 +1,14 @@
+D:\Learn_CSharp\You\MainUI\bin\Debug\net8.0\MainUI.exe
+D:\Learn_CSharp\You\MainUI\bin\Debug\net8.0\MainUI.deps.json
+D:\Learn_CSharp\You\MainUI\bin\Debug\net8.0\MainUI.runtimeconfig.json
+D:\Learn_CSharp\You\MainUI\bin\Debug\net8.0\MainUI.dll
+D:\Learn_CSharp\You\MainUI\bin\Debug\net8.0\MainUI.pdb
+D:\Learn_CSharp\You\MainUI\obj\Debug\net8.0\MainUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_CSharp\You\MainUI\obj\Debug\net8.0\MainUI.AssemblyInfoInputs.cache
+D:\Learn_CSharp\You\MainUI\obj\Debug\net8.0\MainUI.AssemblyInfo.cs
+D:\Learn_CSharp\You\MainUI\obj\Debug\net8.0\MainUI.csproj.CoreCompileInputs.cache
+D:\Learn_CSharp\You\MainUI\obj\Debug\net8.0\MainUI.dll
+D:\Learn_CSharp\You\MainUI\obj\Debug\net8.0\refint\MainUI.dll
+D:\Learn_CSharp\You\MainUI\obj\Debug\net8.0\MainUI.pdb
+D:\Learn_CSharp\You\MainUI\obj\Debug\net8.0\MainUI.genruntimeconfig.cache
+D:\Learn_CSharp\You\MainUI\obj\Debug\net8.0\ref\MainUI.dll

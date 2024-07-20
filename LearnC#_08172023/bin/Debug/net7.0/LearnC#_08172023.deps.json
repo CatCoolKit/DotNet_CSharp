@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LearnC#_08172023/1.0.0": {
+        "runtime": {
+          "LearnC#_08172023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearnC#_08172023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

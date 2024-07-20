@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|c:\\users\\giao.lang\\desktop\\_code.truong.lang\\24.su.prn212\\47.3.net1805\\session08-pe\\bookmanagement_hoangngoctrinh.8\\bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:13:47.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:12:59.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T06:12:56.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T06:12:54.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:12:40.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "ToolTip": "C:\\Users\\giao.lang\\Desktop\\_code.truong.lang\\24.SU.PRN212\\47.3.NET1805\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T06:12:38.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

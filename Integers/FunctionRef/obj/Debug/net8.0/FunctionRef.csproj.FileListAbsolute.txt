@@ -1,0 +1,14 @@
+D:\Learn_CSharp\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.exe
+D:\Learn_CSharp\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.deps.json
+D:\Learn_CSharp\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.runtimeconfig.json
+D:\Learn_CSharp\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.dll
+D:\Learn_CSharp\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.pdb
+D:\Learn_CSharp\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn_CSharp\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.AssemblyInfoInputs.cache
+D:\Learn_CSharp\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.AssemblyInfo.cs
+D:\Learn_CSharp\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.csproj.CoreCompileInputs.cache
+D:\Learn_CSharp\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.dll
+D:\Learn_CSharp\Integers\FunctionRef\obj\Debug\net8.0\refint\FunctionRef.dll
+D:\Learn_CSharp\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.pdb
+D:\Learn_CSharp\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.genruntimeconfig.cache
+D:\Learn_CSharp\Integers\FunctionRef\obj\Debug\net8.0\ref\FunctionRef.dll

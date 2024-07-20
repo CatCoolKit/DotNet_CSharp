@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bmi</name>
+    </assembly>
+    <members>
+        <member name="T:Bmi.BmiCalculator">
+            <summary>
+            This class provides a function to calculate the BMI of any individual, based on body parameters: height, weight.
+            </summary>
+        </member>
+        <member name="M:Bmi.BmiCalculator.GetBmi(System.Double,System.Double)">
+            <summary>
+            Calculates the BMI of an individual based on their weight and height.
+            </summary>
+            <param name="weight">The weight of the individual in kilograms.</param>
+            <param name="height">The height of the individual in meters.</param>
+            <returns>The BMI of the individual.</returns>
+        </member>
+    </members>
+</doc>
