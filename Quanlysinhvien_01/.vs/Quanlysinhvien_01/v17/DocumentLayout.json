@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\",
+  "WorkspaceRootPath": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|c:\\users\\manhc\\onedrive\\documents\\vpprojects\\quanlysinhvien_01\\quanlysinhvien_01\\dal\\dal_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|d:\\dotnet_csharp\\quanlysinhvien_01\\quanlysinhvien_01\\gui\\fsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|solutionrelative:quanlysinhvien_01\\gui\\fsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|d:\\dotnet_csharp\\quanlysinhvien_01\\quanlysinhvien_01\\dal\\dal_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|solutionrelative:quanlysinhvien_01\\dal\\dal_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|c:\\users\\manhc\\onedrive\\documents\\vpprojects\\quanlysinhvien_01\\quanlysinhvien_01\\dal\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|d:\\dotnet_csharp\\quanlysinhvien_01\\quanlysinhvien_01\\dal\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|solutionrelative:quanlysinhvien_01\\dal\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|c:\\users\\manhc\\onedrive\\documents\\vpprojects\\quanlysinhvien_01\\quanlysinhvien_01\\bll\\bll_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|d:\\dotnet_csharp\\quanlysinhvien_01\\quanlysinhvien_01\\bll\\bll_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|solutionrelative:quanlysinhvien_01\\bll\\bll_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|c:\\users\\manhc\\onedrive\\documents\\vpprojects\\quanlysinhvien_01\\quanlysinhvien_01\\hethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|d:\\dotnet_csharp\\quanlysinhvien_01\\quanlysinhvien_01\\hethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|solutionrelative:quanlysinhvien_01\\hethong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|c:\\users\\manhc\\onedrive\\documents\\vpprojects\\quanlysinhvien_01\\quanlysinhvien_01\\gui\\fsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DA33C4F-D8B7-4150-804C-770B649D7318}|Quanlysinhvien_01\\Quanlysinhvien_01.csproj|solutionrelative:quanlysinhvien_01\\gui\\fsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +30,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KetNoi.cs",
-              "DocumentMoniker": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\DAL\\KetNoi.cs",
-              "RelativeDocumentMoniker": "Quanlysinhvien_01\\DAL\\KetNoi.cs",
-              "ToolTip": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\DAL\\KetNoi.cs",
-              "RelativeToolTip": "Quanlysinhvien_01\\DAL\\KetNoi.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T05:54:05.927Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DAL_TaiKhoan.cs",
-              "DocumentMoniker": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\DAL\\DAL_TaiKhoan.cs",
-              "RelativeDocumentMoniker": "Quanlysinhvien_01\\DAL\\DAL_TaiKhoan.cs",
-              "ToolTip": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\DAL\\DAL_TaiKhoan.cs",
-              "RelativeToolTip": "Quanlysinhvien_01\\DAL\\DAL_TaiKhoan.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T05:54:03.879Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BLL_TaiKhoan.cs",
-              "DocumentMoniker": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\BLL\\BLL_TaiKhoan.cs",
-              "RelativeDocumentMoniker": "Quanlysinhvien_01\\BLL\\BLL_TaiKhoan.cs",
-              "ToolTip": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\BLL\\BLL_TaiKhoan.cs",
-              "RelativeToolTip": "Quanlysinhvien_01\\BLL\\BLL_TaiKhoan.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T05:50:33.109Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Hethong.cs",
-              "DocumentMoniker": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\Hethong.cs",
-              "RelativeDocumentMoniker": "Quanlysinhvien_01\\Hethong.cs",
-              "ToolTip": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\Hethong.cs",
-              "RelativeToolTip": "Quanlysinhvien_01\\Hethong.cs",
+              "Title": "BLL_TaiKhoan.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\BLL\\BLL_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien_01\\BLL\\BLL_TaiKhoan.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\BLL\\BLL_TaiKhoan.cs",
+              "RelativeToolTip": "Quanlysinhvien_01\\BLL\\BLL_TaiKhoan.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T05:50:20.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T05:50:33.109Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Hethong.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\Hethong.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien_01\\Hethong.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\Hethong.cs",
+              "RelativeToolTip": "Quanlysinhvien_01\\Hethong.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:50:20.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "fSinhVien.cs",
-              "DocumentMoniker": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\GUI\\fSinhVien.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\GUI\\fSinhVien.cs",
               "RelativeDocumentMoniker": "Quanlysinhvien_01\\GUI\\fSinhVien.cs",
-              "ToolTip": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\GUI\\fSinhVien.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\GUI\\fSinhVien.cs",
               "RelativeToolTip": "Quanlysinhvien_01\\GUI\\fSinhVien.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T14:14:22.475Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL_TaiKhoan.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\DAL\\DAL_TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien_01\\DAL\\DAL_TaiKhoan.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\DAL\\DAL_TaiKhoan.cs",
+              "RelativeToolTip": "Quanlysinhvien_01\\DAL\\DAL_TaiKhoan.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:54:03.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\DAL\\KetNoi.cs",
+              "RelativeDocumentMoniker": "Quanlysinhvien_01\\DAL\\KetNoi.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\DAL\\KetNoi.cs",
+              "RelativeToolTip": "Quanlysinhvien_01\\DAL\\KetNoi.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T05:54:05.927Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1266,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

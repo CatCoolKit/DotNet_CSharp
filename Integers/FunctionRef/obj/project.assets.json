@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn_CSharp\\Integers\\FunctionRef\\FunctionRef.csproj",
+      "projectUniqueName": "D:\\DotNet_CSharp\\Integers\\FunctionRef\\FunctionRef.csproj",
       "projectName": "FunctionRef",
-      "projectPath": "D:\\Learn_CSharp\\Integers\\FunctionRef\\FunctionRef.csproj",
+      "projectPath": "D:\\DotNet_CSharp\\Integers\\FunctionRef\\FunctionRef.csproj",
       "packagesPath": "C:\\Users\\manhc\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn_CSharp\\Integers\\FunctionRef\\obj\\",
+      "outputPath": "D:\\DotNet_CSharp\\Integers\\FunctionRef\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

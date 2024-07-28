@@ -1,0 +1,14 @@
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\bin\Debug\net8.0\StudentManagerV3EmptyCtor.exe
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\bin\Debug\net8.0\StudentManagerV3EmptyCtor.deps.json
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\bin\Debug\net8.0\StudentManagerV3EmptyCtor.runtimeconfig.json
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\bin\Debug\net8.0\StudentManagerV3EmptyCtor.dll
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\bin\Debug\net8.0\StudentManagerV3EmptyCtor.pdb
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\obj\Debug\net8.0\StudentManagerV3EmptyCtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\obj\Debug\net8.0\StudentManagerV3EmptyCtor.AssemblyInfoInputs.cache
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\obj\Debug\net8.0\StudentManagerV3EmptyCtor.AssemblyInfo.cs
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\obj\Debug\net8.0\StudentManagerV3EmptyCtor.csproj.CoreCompileInputs.cache
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\obj\Debug\net8.0\StudentManagerV3EmptyCtor.dll
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\obj\Debug\net8.0\refint\StudentManagerV3EmptyCtor.dll
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\obj\Debug\net8.0\StudentManagerV3EmptyCtor.pdb
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\obj\Debug\net8.0\StudentManagerV3EmptyCtor.genruntimeconfig.cache
+C:\Users\manhc\source\repos\FAP\StudentManagerV3EmptyCtor\obj\Debug\net8.0\ref\StudentManagerV3EmptyCtor.dll

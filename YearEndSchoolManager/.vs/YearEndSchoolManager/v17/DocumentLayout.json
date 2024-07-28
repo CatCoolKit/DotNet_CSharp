@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet_CSharp\\YearEndSchoolManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64EB9C92-273C-41E9-B1CF-A71392C3EAEB}|Repositories\\Repositories.csproj|d:\\dotnet_csharp\\yearendschoolmanager\\repositories\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64EB9C92-273C-41E9-B1CF-A71392C3EAEB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87959BC-D8D6-4D36-A501-E3F906F72463}|MainUIV2\\MainUIV2.csproj|d:\\dotnet_csharp\\yearendschoolmanager\\mainuiv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87959BC-D8D6-4D36-A501-E3F906F72463}|MainUIV2\\MainUIV2.csproj|solutionrelative:mainuiv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\YearEndSchoolManager\\MainUIV2\\Program.cs",
+              "RelativeDocumentMoniker": "MainUIV2\\Program.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\YearEndSchoolManager\\MainUIV2\\Program.cs",
+              "RelativeToolTip": "MainUIV2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:11:16.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\YearEndSchoolManager\\Repositories\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\Student.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\YearEndSchoolManager\\Repositories\\Entities\\Student.cs",
+              "RelativeToolTip": "Repositories\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:10:47.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1266,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

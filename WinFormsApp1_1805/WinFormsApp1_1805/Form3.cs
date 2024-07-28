@@ -284,7 +284,6 @@ namespace WinFormsApp1_1805
 
             if (airConditioner != null)
             {
-                // Hiển thị hộp thoại xác nhận
                 var confirmResult = MessageBox.Show(
                     "Are you sure you want to delete this air conditioner?",
                     "Confirm Delete",

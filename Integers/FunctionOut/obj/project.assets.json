@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn_CSharp\\Integers\\FunctionOut\\FunctionOut.csproj",
+      "projectUniqueName": "D:\\DotNet_CSharp\\Integers\\FunctionOut\\FunctionOut.csproj",
       "projectName": "FunctionOut",
-      "projectPath": "D:\\Learn_CSharp\\Integers\\FunctionOut\\FunctionOut.csproj",
+      "projectPath": "D:\\DotNet_CSharp\\Integers\\FunctionOut\\FunctionOut.csproj",
       "packagesPath": "C:\\Users\\manhc\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn_CSharp\\Integers\\FunctionOut\\obj\\",
+      "outputPath": "D:\\DotNet_CSharp\\Integers\\FunctionOut\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

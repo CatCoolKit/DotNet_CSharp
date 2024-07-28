@@ -1,0 +1,12 @@
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\DotNet_CSharp\YearEndSchoolManager\Repositories\obj\Debug\net8.0\ref\Repositories.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\Quanlysinhvien_01.csproj": {}
+    "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\Quanlysinhvien_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\Quanlysinhvien_01.csproj": {
+    "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\Quanlysinhvien_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\Quanlysinhvien_01.csproj",
+        "projectUniqueName": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\Quanlysinhvien_01.csproj",
         "projectName": "Quanlysinhvien_01",
-        "projectPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\Quanlysinhvien_01.csproj",
+        "projectPath": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\Quanlysinhvien_01.csproj",
         "packagesPath": "C:\\Users\\manhc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\Quanlysinhvien_01\\Quanlysinhvien_01\\obj\\",
+        "outputPath": "D:\\DotNet_CSharp\\Quanlysinhvien_01\\Quanlysinhvien_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manhc\\AppData\\Roaming\\NuGet\\NuGet.Config",

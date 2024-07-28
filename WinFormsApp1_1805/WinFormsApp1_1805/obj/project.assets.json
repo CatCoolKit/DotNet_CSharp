@@ -2549,11 +2549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\WinFormsApp1_1805\\WinFormsApp1_1805\\WinFormsApp1_1805.csproj",
+      "projectUniqueName": "D:\\DotNet_CSharp\\WinFormsApp1_1805\\WinFormsApp1_1805\\WinFormsApp1_1805.csproj",
       "projectName": "WinFormsApp1_1805",
-      "projectPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\WinFormsApp1_1805\\WinFormsApp1_1805\\WinFormsApp1_1805.csproj",
+      "projectPath": "D:\\DotNet_CSharp\\WinFormsApp1_1805\\WinFormsApp1_1805\\WinFormsApp1_1805.csproj",
       "packagesPath": "C:\\Users\\manhc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\WinFormsApp1_1805\\WinFormsApp1_1805\\obj\\",
+      "outputPath": "D:\\DotNet_CSharp\\WinFormsApp1_1805\\WinFormsApp1_1805\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2571,8 +2571,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\WinFormsApp1_1805\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\manhc\\OneDrive\\Documents\\VPProjects\\WinFormsApp1_1805\\Repository\\Repository.csproj"
+            "D:\\DotNet_CSharp\\WinFormsApp1_1805\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\DotNet_CSharp\\WinFormsApp1_1805\\Repository\\Repository.csproj"
             }
           }
         }
@@ -2610,7 +2610,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

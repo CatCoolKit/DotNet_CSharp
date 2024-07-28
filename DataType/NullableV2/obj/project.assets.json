@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn_CSharp\\DataType\\NullableV2\\NullableV2.csproj",
+      "projectUniqueName": "D:\\DotNet_CSharp\\DataType\\NullableV2\\NullableV2.csproj",
       "projectName": "NullableV2",
-      "projectPath": "D:\\Learn_CSharp\\DataType\\NullableV2\\NullableV2.csproj",
+      "projectPath": "D:\\DotNet_CSharp\\DataType\\NullableV2\\NullableV2.csproj",
       "packagesPath": "C:\\Users\\manhc\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn_CSharp\\DataType\\NullableV2\\obj\\",
+      "outputPath": "D:\\DotNet_CSharp\\DataType\\NullableV2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

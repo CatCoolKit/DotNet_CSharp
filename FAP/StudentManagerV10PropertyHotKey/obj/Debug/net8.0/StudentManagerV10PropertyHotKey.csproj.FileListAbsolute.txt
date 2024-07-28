@@ -1,0 +1,14 @@
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\bin\Debug\net8.0\StudentManagerV10PropertyHotKey.exe
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\bin\Debug\net8.0\StudentManagerV10PropertyHotKey.deps.json
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\bin\Debug\net8.0\StudentManagerV10PropertyHotKey.runtimeconfig.json
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\bin\Debug\net8.0\StudentManagerV10PropertyHotKey.dll
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\bin\Debug\net8.0\StudentManagerV10PropertyHotKey.pdb
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\obj\Debug\net8.0\StudentManagerV10PropertyHotKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\obj\Debug\net8.0\StudentManagerV10PropertyHotKey.AssemblyInfoInputs.cache
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\obj\Debug\net8.0\StudentManagerV10PropertyHotKey.AssemblyInfo.cs
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\obj\Debug\net8.0\StudentManagerV10PropertyHotKey.csproj.CoreCompileInputs.cache
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\obj\Debug\net8.0\StudentManagerV10PropertyHotKey.dll
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\obj\Debug\net8.0\refint\StudentManagerV10PropertyHotKey.dll
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\obj\Debug\net8.0\StudentManagerV10PropertyHotKey.pdb
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\obj\Debug\net8.0\StudentManagerV10PropertyHotKey.genruntimeconfig.cache
+C:\Users\manhc\source\repos\FAP\StudentManagerV10PropertyHotKey\obj\Debug\net8.0\ref\StudentManagerV10PropertyHotKey.dll

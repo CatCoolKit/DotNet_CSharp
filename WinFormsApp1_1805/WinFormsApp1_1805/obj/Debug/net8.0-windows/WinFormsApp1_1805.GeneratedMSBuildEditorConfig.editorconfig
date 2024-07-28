@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WinFormsApp1_1805
-build_property.ProjectDir = C:\Users\manhc\OneDrive\Documents\VPProjects\WinFormsApp1_1805\WinFormsApp1_1805\
+build_property.ProjectDir = D:\DotNet_CSharp\WinFormsApp1_1805\WinFormsApp1_1805\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

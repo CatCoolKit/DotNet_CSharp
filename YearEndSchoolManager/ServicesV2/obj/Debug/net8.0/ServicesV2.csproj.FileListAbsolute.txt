@@ -1,0 +1,16 @@
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\bin\Debug\net8.0\ServicesV2.deps.json
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\bin\Debug\net8.0\ServicesV2.dll
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\bin\Debug\net8.0\ServicesV2.pdb
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\bin\Debug\net8.0\Repositories.dll
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\bin\Debug\net8.0\Repositories.pdb
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ServicesV2.csproj.AssemblyReference.cache
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ServicesV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ServicesV2.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ServicesV2.AssemblyInfo.cs
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ServicesV2.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ServicesV2.sourcelink.json
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ServicesV2.csproj.Up2Date
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ServicesV2.dll
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\refint\ServicesV2.dll
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ServicesV2.pdb
+D:\DotNet_CSharp\YearEndSchoolManager\ServicesV2\obj\Debug\net8.0\ref\ServicesV2.dll

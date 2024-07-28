@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
+      },
+      "ServicesV2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServicesV2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServicesV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "ServicesV2/1.0.0": {
+      "type": "project",
+      "path": "../ServicesV2/ServicesV2.csproj",
+      "msbuildProject": "../ServicesV2/ServicesV2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ServicesV2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\manhc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\DotNet_CSharp\\YearEndSchoolManager\\MainUIV2\\MainUIV2.csproj",
+      "projectName": "MainUIV2",
+      "projectPath": "D:\\DotNet_CSharp\\YearEndSchoolManager\\MainUIV2\\MainUIV2.csproj",
+      "packagesPath": "C:\\Users\\manhc\\.nuget\\packages\\",
+      "outputPath": "D:\\DotNet_CSharp\\YearEndSchoolManager\\MainUIV2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\manhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\DotNet_CSharp\\YearEndSchoolManager\\ServicesV2\\ServicesV2.csproj": {
+              "projectPath": "D:\\DotNet_CSharp\\YearEndSchoolManager\\ServicesV2\\ServicesV2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

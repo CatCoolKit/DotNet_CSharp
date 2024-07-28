@@ -1,0 +1,14 @@
+C:\Users\manhc\source\repos\FAPV2\wpf\bin\Debug\net8.0\wpf.exe
+C:\Users\manhc\source\repos\FAPV2\wpf\bin\Debug\net8.0\wpf.deps.json
+C:\Users\manhc\source\repos\FAPV2\wpf\bin\Debug\net8.0\wpf.runtimeconfig.json
+C:\Users\manhc\source\repos\FAPV2\wpf\bin\Debug\net8.0\wpf.dll
+C:\Users\manhc\source\repos\FAPV2\wpf\bin\Debug\net8.0\wpf.pdb
+C:\Users\manhc\source\repos\FAPV2\wpf\obj\Debug\net8.0\wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhc\source\repos\FAPV2\wpf\obj\Debug\net8.0\wpf.AssemblyInfoInputs.cache
+C:\Users\manhc\source\repos\FAPV2\wpf\obj\Debug\net8.0\wpf.AssemblyInfo.cs
+C:\Users\manhc\source\repos\FAPV2\wpf\obj\Debug\net8.0\wpf.csproj.CoreCompileInputs.cache
+C:\Users\manhc\source\repos\FAPV2\wpf\obj\Debug\net8.0\wpf.dll
+C:\Users\manhc\source\repos\FAPV2\wpf\obj\Debug\net8.0\refint\wpf.dll
+C:\Users\manhc\source\repos\FAPV2\wpf\obj\Debug\net8.0\wpf.pdb
+C:\Users\manhc\source\repos\FAPV2\wpf\obj\Debug\net8.0\wpf.genruntimeconfig.cache
+C:\Users\manhc\source\repos\FAPV2\wpf\obj\Debug\net8.0\ref\wpf.dll

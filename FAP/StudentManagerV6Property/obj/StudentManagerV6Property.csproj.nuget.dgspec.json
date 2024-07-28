@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DotNet_CSharp\\FAP\\StudentManagerV6Property\\StudentManagerV6Property.csproj": {}
+  },
+  "projects": {
+    "D:\\DotNet_CSharp\\FAP\\StudentManagerV6Property\\StudentManagerV6Property.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DotNet_CSharp\\FAP\\StudentManagerV6Property\\StudentManagerV6Property.csproj",
+        "projectName": "StudentManagerV6Property",
+        "projectPath": "D:\\DotNet_CSharp\\FAP\\StudentManagerV6Property\\StudentManagerV6Property.csproj",
+        "packagesPath": "C:\\Users\\manhc\\.nuget\\packages\\",
+        "outputPath": "D:\\DotNet_CSharp\\FAP\\StudentManagerV6Property\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
