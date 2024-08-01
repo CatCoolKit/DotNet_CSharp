@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\DotNet_CSharp\\YearEndSchoolManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64EB9C92-273C-41E9-B1CF-A71392C3EAEB}|Repositories\\Repositories.csproj|d:\\dotnet_csharp\\yearendschoolmanager\\repositories\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64EB9C92-273C-41E9-B1CF-A71392C3EAEB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EEF2816-197F-447E-9C16-0AD3E50F352C}|MainUI\\MainUI.csproj|d:\\dotnet_csharp\\yearendschoolmanager\\mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEF2816-197F-447E-9C16-0AD3E50F352C}|MainUI\\MainUI.csproj|solutionrelative:mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEBBDDCF-DA44-4408-A25B-674780D7F10B}|ServicesV2\\ServicesV2.csproj|d:\\dotnet_csharp\\yearendschoolmanager\\servicesv2\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEBBDDCF-DA44-4408-A25B-674780D7F10B}|ServicesV2\\ServicesV2.csproj|solutionrelative:servicesv2\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486FC2AD-0574-475C-8823-AA7D776C3BC2}|Services\\Services.csproj|d:\\dotnet_csharp\\yearendschoolmanager\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486FC2AD-0574-475C-8823-AA7D776C3BC2}|Services\\Services.csproj|solutionrelative:services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87959BC-D8D6-4D36-A501-E3F906F72463}|MainUIV2\\MainUIV2.csproj|d:\\dotnet_csharp\\yearendschoolmanager\\mainuiv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87959BC-D8D6-4D36-A501-E3F906F72463}|MainUIV2\\MainUIV2.csproj|solutionrelative:mainuiv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EB9C92-273C-41E9-B1CF-A71392C3EAEB}|Repositories\\Repositories.csproj|d:\\dotnet_csharp\\yearendschoolmanager\\repositories\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64EB9C92-273C-41E9-B1CF-A71392C3EAEB}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +50,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\YearEndSchoolManager\\MainUI\\Program.cs",
+              "RelativeDocumentMoniker": "MainUI\\Program.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\YearEndSchoolManager\\MainUI\\Program.cs",
+              "RelativeToolTip": "MainUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:10:32.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\YearEndSchoolManager\\ServicesV2\\Cabinet.cs",
+              "RelativeDocumentMoniker": "ServicesV2\\Cabinet.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\YearEndSchoolManager\\ServicesV2\\Cabinet.cs",
+              "RelativeToolTip": "ServicesV2\\Cabinet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:10:23.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\YearEndSchoolManager\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "Services\\Cabinet.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\YearEndSchoolManager\\Services\\Cabinet.cs",
+              "RelativeToolTip": "Services\\Cabinet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:10:21.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNet_CSharp\\YearEndSchoolManager\\MainUIV2\\Program.cs",
               "RelativeDocumentMoniker": "MainUIV2\\Program.cs",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\DotNet_CSharp\\YearEndSchoolManager\\Repositories\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Repositories\\Entities\\Student.cs",

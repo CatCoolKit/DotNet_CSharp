@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.exe
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.deps.json
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.runtimeconfig.json
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.dll
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.pdb
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.AssemblyInfo.cs
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.sourcelink.json
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.dll
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\refint\FuncDelegate.dll
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.pdb
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.genruntimeconfig.cache
+D:\DotNet_CSharp\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\ref\FuncDelegate.dll

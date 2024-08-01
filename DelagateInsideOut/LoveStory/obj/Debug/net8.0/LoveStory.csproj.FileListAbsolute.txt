@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\bin\Debug\net8.0\LoveStory.exe
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\bin\Debug\net8.0\LoveStory.deps.json
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\bin\Debug\net8.0\LoveStory.runtimeconfig.json
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\bin\Debug\net8.0\LoveStory.dll
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\bin\Debug\net8.0\LoveStory.pdb
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\LoveStory.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\LoveStory.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\LoveStory.AssemblyInfo.cs
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\LoveStory.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\LoveStory.sourcelink.json
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\LoveStory.dll
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\refint\LoveStory.dll
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\LoveStory.pdb
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\LoveStory.genruntimeconfig.cache
+D:\DotNet_CSharp\DelagateInsideOut\LoveStory\obj\Debug\net8.0\ref\LoveStory.dll

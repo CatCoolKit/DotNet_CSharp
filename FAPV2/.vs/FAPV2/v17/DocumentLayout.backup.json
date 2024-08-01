@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\DotNet_CSharp\\FAPV2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{DCE5984B-97B8-4FEB-AF7E-71B3FA2F5C84}|StudentManagerV3Generic\\StudentManagerV3Generic.csproj|d:\\dotnet_csharp\\fapv2\\studentmanagerv3generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCE5984B-97B8-4FEB-AF7E-71B3FA2F5C84}|StudentManagerV3Generic\\StudentManagerV3Generic.csproj|solutionrelative:studentmanagerv3generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DotNet_CSharp\\FAPV2\\StudentManagerV3Generic\\Program.cs",
-              "RelativeDocumentMoniker": "StudentManagerV3Generic\\Program.cs",
-              "ToolTip": "D:\\DotNet_CSharp\\FAPV2\\StudentManagerV3Generic\\Program.cs",
-              "RelativeToolTip": "StudentManagerV3Generic\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T05:54:35.18Z",
-              "EditorCaption": ""
             }
           ]
         },

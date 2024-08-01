@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35118.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eternity", "Eternity\Eternity.csproj", "{6F77253C-B173-4226-8D77-A6B01DF38AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{6F5B0398-CE9F-4B37-B105-3477D3597328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F77253C-B173-4226-8D77-A6B01DF38AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F77253C-B173-4226-8D77-A6B01DF38AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F77253C-B173-4226-8D77-A6B01DF38AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F77253C-B173-4226-8D77-A6B01DF38AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F5B0398-CE9F-4B37-B105-3477D3597328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5B0398-CE9F-4B37-B105-3477D3597328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5B0398-CE9F-4B37-B105-3477D3597328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5B0398-CE9F-4B37-B105-3477D3597328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3DE7CF4-A96A-41D0-A3B7-2654B9DF6C01}
+	EndGlobalSection
+EndGlobal

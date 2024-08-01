@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\bin\Debug\net8.0\DelegateReview.AnonymousFunc.exe
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\bin\Debug\net8.0\DelegateReview.AnonymousFunc.deps.json
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\bin\Debug\net8.0\DelegateReview.AnonymousFunc.runtimeconfig.json
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\bin\Debug\net8.0\DelegateReview.AnonymousFunc.dll
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\bin\Debug\net8.0\DelegateReview.AnonymousFunc.pdb
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\DelegateReview.AnonymousFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\DelegateReview.AnonymousFunc.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\DelegateReview.AnonymousFunc.AssemblyInfo.cs
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\DelegateReview.AnonymousFunc.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\DelegateReview.AnonymousFunc.sourcelink.json
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\DelegateReview.AnonymousFunc.dll
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\refint\DelegateReview.AnonymousFunc.dll
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\DelegateReview.AnonymousFunc.pdb
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\DelegateReview.AnonymousFunc.genruntimeconfig.cache
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.AnonymousFunc\obj\Debug\net8.0\ref\DelegateReview.AnonymousFunc.dll

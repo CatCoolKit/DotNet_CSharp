@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\bin\Debug\net8.0\PassByDelegateV2.exe
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\bin\Debug\net8.0\PassByDelegateV2.deps.json
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\bin\Debug\net8.0\PassByDelegateV2.runtimeconfig.json
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\bin\Debug\net8.0\PassByDelegateV2.dll
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\bin\Debug\net8.0\PassByDelegateV2.pdb
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\PassByDelegateV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\PassByDelegateV2.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\PassByDelegateV2.AssemblyInfo.cs
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\PassByDelegateV2.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\PassByDelegateV2.sourcelink.json
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\PassByDelegateV2.dll
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\refint\PassByDelegateV2.dll
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\PassByDelegateV2.pdb
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\PassByDelegateV2.genruntimeconfig.cache
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV2\obj\Debug\net8.0\ref\PassByDelegateV2.dll

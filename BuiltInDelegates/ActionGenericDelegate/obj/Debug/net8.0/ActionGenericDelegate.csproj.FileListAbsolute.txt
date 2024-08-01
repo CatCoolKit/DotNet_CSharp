@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\bin\Debug\net8.0\ActionGenericDelegate.exe
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\bin\Debug\net8.0\ActionGenericDelegate.deps.json
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\bin\Debug\net8.0\ActionGenericDelegate.runtimeconfig.json
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\bin\Debug\net8.0\ActionGenericDelegate.dll
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\bin\Debug\net8.0\ActionGenericDelegate.pdb
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\ActionGenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\ActionGenericDelegate.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\ActionGenericDelegate.AssemblyInfo.cs
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\ActionGenericDelegate.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\ActionGenericDelegate.sourcelink.json
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\ActionGenericDelegate.dll
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\refint\ActionGenericDelegate.dll
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\ActionGenericDelegate.pdb
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\ActionGenericDelegate.genruntimeconfig.cache
+D:\DotNet_CSharp\BuiltInDelegates\ActionGenericDelegate\obj\Debug\net8.0\ref\ActionGenericDelegate.dll

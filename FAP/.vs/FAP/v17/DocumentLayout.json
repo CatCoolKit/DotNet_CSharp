@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\DotNet_CSharp\\FAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0B434F7-7678-4997-8950-735E30391177}|StudentManagerV1\\StudentManagerV1.csproj|d:\\dotnet_csharp\\fap\\studentmanagerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B434F7-7678-4997-8950-735E30391177}|StudentManagerV1\\StudentManagerV1.csproj|solutionrelative:studentmanagerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0B434F7-7678-4997-8950-735E30391177}|StudentManagerV1\\StudentManagerV1.csproj|d:\\dotnet_csharp\\fap\\studentmanagerv1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0B434F7-7678-4997-8950-735E30391177}|StudentManagerV1\\StudentManagerV1.csproj|solutionrelative:studentmanagerv1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D63E63C-998C-4ECD-A5BE-08F64212505C}|StudentManagerV6Property\\StudentManagerV6Property.csproj|d:\\dotnet_csharp\\fap\\studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D63E63C-998C-4ECD-A5BE-08F64212505C}|StudentManagerV6Property\\StudentManagerV6Property.csproj|solutionrelative:studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,26 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DotNet_CSharp\\FAP\\StudentManagerV1\\Program.cs",
-              "RelativeDocumentMoniker": "StudentManagerV1\\Program.cs",
-              "ToolTip": "D:\\DotNet_CSharp\\FAP\\StudentManagerV1\\Program.cs",
-              "RelativeToolTip": "StudentManagerV1\\Program.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6Property\\Program.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeToolTip": "StudentManagerV6Property\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T18:08:11.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\DotNet_CSharp\\FAP\\StudentManagerV1\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "StudentManagerV1\\Entities\\Student.cs",
-              "ToolTip": "D:\\DotNet_CSharp\\FAP\\StudentManagerV1\\Entities\\Student.cs",
-              "RelativeToolTip": "StudentManagerV1\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T18:08:09.553Z",
+              "WhenOpened": "2024-07-31T04:28:36.232Z",
               "EditorCaption": ""
             }
           ]

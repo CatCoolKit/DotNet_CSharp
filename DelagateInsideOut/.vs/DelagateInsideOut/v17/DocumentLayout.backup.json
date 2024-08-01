@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\DotNet_CSharp\\DelagateInsideOut\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8D80E9C-5399-492C-94AA-0E043B9A3C5D}|DelegateIntro\\DelegateIntro.csproj|d:\\dotnet_csharp\\delagateinsideout\\delegateintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D80E9C-5399-492C-94AA-0E043B9A3C5D}|DelegateIntro\\DelegateIntro.csproj|solutionrelative:delegateintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E6878DE-133C-4ACE-8014-30E65CC1484C}|DelegateReview.LambdaEx.V3\\DelegateReview.LambdaEx.V3.csproj|d:\\dotnet_csharp\\delagateinsideout\\delegatereview.lambdaex.v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6878DE-133C-4ACE-8014-30E65CC1484C}|DelegateReview.LambdaEx.V3\\DelegateReview.LambdaEx.V3.csproj|solutionrelative:delegatereview.lambdaex.v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DotNet_CSharp\\DelagateInsideOut\\DelegateIntro\\Program.cs",
-              "RelativeDocumentMoniker": "DelegateIntro\\Program.cs",
-              "ToolTip": "D:\\DotNet_CSharp\\DelagateInsideOut\\DelegateIntro\\Program.cs",
-              "RelativeToolTip": "DelegateIntro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\DelagateInsideOut\\DelegateReview.LambdaEx.V3\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateReview.LambdaEx.V3\\Program.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\DelagateInsideOut\\DelegateReview.LambdaEx.V3\\Program.cs",
+              "RelativeToolTip": "DelegateReview.LambdaEx.V3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T14:11:27.131Z",
+              "WhenOpened": "2024-07-29T07:54:28.125Z",
               "EditorCaption": ""
             }
           ]

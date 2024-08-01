@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\manhc\\source\\repos\\FAP\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\DotNet_CSharp\\FAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520EC2D4-021F-4203-9D3E-EBDE05EF3B00}|StudentManagerVFluentValidation\\StudentManagerVFluentValidation.csproj|d:\\dotnet_csharp\\fap\\studentmanagervfluentvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520EC2D4-021F-4203-9D3E-EBDE05EF3B00}|StudentManagerVFluentValidation\\StudentManagerVFluentValidation.csproj|solutionrelative:studentmanagervfluentvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D63E63C-998C-4ECD-A5BE-08F64212505C}|StudentManagerV6Property\\StudentManagerV6Property.csproj|d:\\dotnet_csharp\\fap\\studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D63E63C-998C-4ECD-A5BE-08F64212505C}|StudentManagerV6Property\\StudentManagerV6Property.csproj|solutionrelative:studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B434F7-7678-4997-8950-735E30391177}|StudentManagerV1\\StudentManagerV1.csproj|d:\\dotnet_csharp\\fap\\studentmanagerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B434F7-7678-4997-8950-735E30391177}|StudentManagerV1\\StudentManagerV1.csproj|solutionrelative:studentmanagerv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B434F7-7678-4997-8950-735E30391177}|StudentManagerV1\\StudentManagerV1.csproj|d:\\dotnet_csharp\\fap\\studentmanagerv1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B434F7-7678-4997-8950-735E30391177}|StudentManagerV1\\StudentManagerV1.csproj|solutionrelative:studentmanagerv1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\FAP\\StudentManagerVFluentValidation\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerVFluentValidation\\Program.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\FAP\\StudentManagerVFluentValidation\\Program.cs",
+              "RelativeToolTip": "StudentManagerVFluentValidation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:28:40.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6Property\\Program.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeToolTip": "StudentManagerV6Property\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:28:36.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\FAP\\StudentManagerV1\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV1\\Program.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\FAP\\StudentManagerV1\\Program.cs",
+              "RelativeToolTip": "StudentManagerV1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:08:11.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DotNet_CSharp\\FAP\\StudentManagerV1\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV1\\Entities\\Student.cs",
+              "ToolTip": "D:\\DotNet_CSharp\\FAP\\StudentManagerV1\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV1\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:08:09.553Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1266,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

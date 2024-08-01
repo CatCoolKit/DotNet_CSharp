@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\bin\Debug\net8.0\PassByFunc.exe
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\bin\Debug\net8.0\PassByFunc.deps.json
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\bin\Debug\net8.0\PassByFunc.runtimeconfig.json
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\bin\Debug\net8.0\PassByFunc.dll
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\bin\Debug\net8.0\PassByFunc.pdb
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\PassByFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\PassByFunc.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\PassByFunc.AssemblyInfo.cs
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\PassByFunc.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\PassByFunc.sourcelink.json
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\PassByFunc.dll
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\refint\PassByFunc.dll
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\PassByFunc.pdb
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\PassByFunc.genruntimeconfig.cache
+D:\DotNet_CSharp\DelegateInUse\PassByFunc\obj\Debug\net8.0\ref\PassByFunc.dll

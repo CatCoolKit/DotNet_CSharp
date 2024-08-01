@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.exe
+D:\DotNet_CSharp\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.deps.json
+D:\DotNet_CSharp\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.runtimeconfig.json
+D:\DotNet_CSharp\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.dll
+D:\DotNet_CSharp\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.pdb
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.AssemblyInfo.cs
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.sourcelink.json
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.dll
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\refint\Numerology.dll
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.pdb
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.genruntimeconfig.cache
+D:\DotNet_CSharp\DelegateInUse\Numerology\obj\Debug\net8.0\ref\Numerology.dll

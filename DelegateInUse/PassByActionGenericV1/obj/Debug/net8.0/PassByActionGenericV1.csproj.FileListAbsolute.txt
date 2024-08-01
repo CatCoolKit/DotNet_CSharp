@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\bin\Debug\net8.0\PassByActionGenericV1.exe
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\bin\Debug\net8.0\PassByActionGenericV1.deps.json
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\bin\Debug\net8.0\PassByActionGenericV1.runtimeconfig.json
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\bin\Debug\net8.0\PassByActionGenericV1.dll
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\bin\Debug\net8.0\PassByActionGenericV1.pdb
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\PassByActionGenericV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\PassByActionGenericV1.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\PassByActionGenericV1.AssemblyInfo.cs
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\PassByActionGenericV1.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\PassByActionGenericV1.sourcelink.json
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\PassByActionGenericV1.dll
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\refint\PassByActionGenericV1.dll
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\PassByActionGenericV1.pdb
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\PassByActionGenericV1.genruntimeconfig.cache
+D:\DotNet_CSharp\DelegateInUse\PassByActionGenericV1\obj\Debug\net8.0\ref\PassByActionGenericV1.dll

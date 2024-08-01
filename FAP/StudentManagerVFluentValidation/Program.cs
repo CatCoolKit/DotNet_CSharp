@@ -7,6 +7,9 @@ namespace StudentManagerVFluentValidation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Nhap mot so bat ky");
+            int a = Convert.ToInt32(Console.ReadLine());
+
             Student s1 = new Student
             {
                 Id = 01,

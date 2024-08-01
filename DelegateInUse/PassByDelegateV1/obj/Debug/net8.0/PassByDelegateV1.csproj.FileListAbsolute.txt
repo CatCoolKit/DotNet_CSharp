@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.exe
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.deps.json
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.runtimeconfig.json
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.dll
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.pdb
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.AssemblyInfo.cs
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.sourcelink.json
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.dll
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\refint\PassByDelegateV1.dll
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.pdb
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.genruntimeconfig.cache
+D:\DotNet_CSharp\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\ref\PassByDelegateV1.dll

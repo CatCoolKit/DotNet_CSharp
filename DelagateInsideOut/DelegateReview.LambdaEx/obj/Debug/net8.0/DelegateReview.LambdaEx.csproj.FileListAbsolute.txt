@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\bin\Debug\net8.0\DelegateReview.LambdaEx.exe
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\bin\Debug\net8.0\DelegateReview.LambdaEx.deps.json
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\bin\Debug\net8.0\DelegateReview.LambdaEx.runtimeconfig.json
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\bin\Debug\net8.0\DelegateReview.LambdaEx.dll
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\bin\Debug\net8.0\DelegateReview.LambdaEx.pdb
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\DelegateReview.LambdaEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\DelegateReview.LambdaEx.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\DelegateReview.LambdaEx.AssemblyInfo.cs
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\DelegateReview.LambdaEx.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\DelegateReview.LambdaEx.sourcelink.json
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\DelegateReview.LambdaEx.dll
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\refint\DelegateReview.LambdaEx.dll
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\DelegateReview.LambdaEx.pdb
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\DelegateReview.LambdaEx.genruntimeconfig.cache
+D:\DotNet_CSharp\DelagateInsideOut\DelegateReview.LambdaEx\obj\Debug\net8.0\ref\DelegateReview.LambdaEx.dll

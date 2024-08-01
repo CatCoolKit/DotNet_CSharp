@@ -1,0 +1,15 @@
+D:\DotNet_CSharp\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.exe
+D:\DotNet_CSharp\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.deps.json
+D:\DotNet_CSharp\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+D:\DotNet_CSharp\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.dll
+D:\DotNet_CSharp\LINQIntroduction\Numbers\bin\Debug\net8.0\Numbers.pdb
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.sourcelink.json
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.dll
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.pdb
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+D:\DotNet_CSharp\LINQIntroduction\Numbers\obj\Debug\net8.0\ref\Numbers.dll

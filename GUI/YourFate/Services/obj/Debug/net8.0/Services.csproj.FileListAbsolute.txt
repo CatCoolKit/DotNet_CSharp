@@ -1,0 +1,12 @@
+D:\DotNet_CSharp\GUI\YourFate\Services\bin\Debug\net8.0\Services.deps.json
+D:\DotNet_CSharp\GUI\YourFate\Services\bin\Debug\net8.0\Services.dll
+D:\DotNet_CSharp\GUI\YourFate\Services\bin\Debug\net8.0\Services.pdb
+D:\DotNet_CSharp\GUI\YourFate\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet_CSharp\GUI\YourFate\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\DotNet_CSharp\GUI\YourFate\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\DotNet_CSharp\GUI\YourFate\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\DotNet_CSharp\GUI\YourFate\Services\obj\Debug\net8.0\Services.sourcelink.json
+D:\DotNet_CSharp\GUI\YourFate\Services\obj\Debug\net8.0\Services.dll
+D:\DotNet_CSharp\GUI\YourFate\Services\obj\Debug\net8.0\refint\Services.dll
+D:\DotNet_CSharp\GUI\YourFate\Services\obj\Debug\net8.0\Services.pdb
+D:\DotNet_CSharp\GUI\YourFate\Services\obj\Debug\net8.0\ref\Services.dll
