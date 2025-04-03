@@ -1,0 +1,107 @@
+﻿@model IEnumerable<DTO.MedicineInformation>
+
+@{
+    ViewData["Title"] = "ListMedicine";
+}
+
+<h1>ListMedicine</h1>
+
+
+<form asp-action="Search1" method="get">
+    <div class="form-group">
+        <label for="searchString">Search:</label>
+        <input type="text" name="searchString" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ActiveIngredients)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpirationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DosageForm)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WarningsAndPrecautions)
+            </th>
+            <th>
+                Manufacturer Name
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MedicineName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ActiveIngredients)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ExpirationDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DosageForm)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.WarningsAndPrecautions)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Manufacturer.ManufacturerName)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        <li class="page-item @(ViewBag.PageNumber == 1 ? "disabled" : "")">
+            <a class="page-link" asp-action="ListMedicine" asp-route-pageNumber="@(ViewBag.PageNumber - 1)">Previous</a>
+        </li>
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            <li class="page-item @(ViewBag.PageNumber == i ? "active" : "")">
+                <a class="page-link" asp-action="ListMedicine" asp-route-pageNumber="@i">@i</a>
+            </li>
+        }
+        <li class="page-item @(ViewBag.PageNumber == ViewBag.TotalPages || ViewBag.TotalPages == 0 ? "disabled" : "")">
+            <a class="page-link" asp-action="ListMedicine" asp-route-pageNumber="@(ViewBag.PageNumber + 1)">Next</a>
+        </li>
+    </ul>
+</nav>
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/medicineHub")
+        .configureLogging(signalR.LogLevel.Information)
+        .withAutomaticReconnect()
+        .build();
+
+    connection.on("ReceiveMedicineDelete", function () {
+        location.reload();
+    });
+
+    async function startConnection() {
+        try {
+            await connection.start();
+        } catch (err) {
+            setTimeout(startConnection, 5000);
+        }
+    }
+
+    startConnection();
+</script>

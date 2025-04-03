@@ -1,0 +1,121 @@
+﻿@page
+@model PharmaceuticalManagement_BuiManhCuong.Pages.Medicines.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<form method="get">
+    <input type="text" name="searchString" value="@Model.SearchString" placeholder="Input name medicine..." />
+    <button type="submit">Find</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <div style="color: red; font-weight: bold;">
+        @Model.ErrorMessage
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].MedicineName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].ActiveIngredients)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].ExpirationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].DosageForm)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].WarningsAndPrecautions)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MedicineInformation[0].Manufacturer)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.MedicineInformation) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MedicineName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ActiveIngredients)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpirationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DosageForm)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WarningsAndPrecautions)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manufacturer.ManufacturerName)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.MedicineId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.MedicineId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.MedicineId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div>
+    @if (Model.TotalPages > 1)
+    {
+        <nav>
+            <ul class="pagination">
+                @if (Model.PageIndex > 1)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-page="./Index" asp-route-pageIndex="@(Model.PageIndex - 1)" asp-route-searchString="@Model.SearchString">Previous</a>
+                    </li>
+                }
+
+                @for (int i = 1; i <= Model.TotalPages; i++)
+                {
+                    <li class="page-item @(i == Model.PageIndex ? "active" : "")">
+                        <a class="page-link" asp-page="./Index" asp-route-pageIndex="@i" asp-route-searchString="@Model.SearchString">@i</a>
+                    </li>
+                }
+
+                @if (Model.PageIndex < Model.TotalPages)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-page="./Index" asp-route-pageIndex="@(Model.PageIndex + 1)" asp-route-searchString="@Model.SearchString">Next</a>
+                    </li>
+                }
+            </ul>
+        </nav>
+    }
+</div>
+
+<script>
+    function checkPermission(url) {
+        let hasPermission = @((User.IsInRole("2")) ? "true" : "false");
+
+        if (hasPermission) {
+            window.location.href = url;
+        } else {
+            alert("You do not have permission to perform this operation!");
+        }
+    }
+</script>

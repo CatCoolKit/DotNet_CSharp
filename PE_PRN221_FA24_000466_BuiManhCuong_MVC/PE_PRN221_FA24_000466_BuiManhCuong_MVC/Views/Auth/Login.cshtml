@@ -1,0 +1,26 @@
+﻿@model DTO.AccountLogin
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">Login</h2>
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <form asp-action="Login" method="post">
+                <div class="mb-3">
+                    <label for="AccountEmail" class="form-label">Email</label>
+                    <input asp-for="AccountEmail" class="form-control" placeholder="Enter email" />
+                    <span asp-validation-for="AccountEmail" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="StoreAccountPassword" class="form-label">Password</label>
+                    <input asp-for="AccountPassword" type="password" class="form-control" placeholder="Enter password" />
+                    <span asp-validation-for="AccountPassword" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Login</button>
+            </form>
+        </div>
+    </div>
+</div>
